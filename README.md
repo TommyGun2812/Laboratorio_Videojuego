@@ -8,10 +8,10 @@ Tomás Pérez Vera: TommyGun2812
   
 ## Validación del Estándar PEP 8   
   
-![Validación del estándar PEP 8]()  
+![Validación del estándar PEP 8](https://github.com/TommyGun2812/Laboratorio_Videojuego/blob/833abacaefa7cb1670448c0961704e3a0f045967/pep8.png)  
   
 ## Validación del Funcionamiento del Juego  
   
-![Validación del funcionamiento del jeugo]()    
+![Validación del funcionamiento del jeugo](https://github.com/TommyGun2812/Laboratorio_Videojuego/blob/833abacaefa7cb1670448c0961704e3a0f045967/connectFour.png)    
   
   
